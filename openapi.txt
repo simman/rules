@@ -1,0 +1,12 @@
+openai.com
+pay.openai.com
+chat.openai.com
+auth0.openai.com
+auth0.com
+platform.openai.com
+bing.com
+live.com
+challenges.cloudflare.com
+ai.com
+invoice.stripe.com
+stripe.com
